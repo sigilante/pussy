@@ -2,13 +2,6 @@
 
 <img width="106" height="114" alt="image" src="https://github.com/user-attachments/assets/f3a88510-34d7-47f2-8a20-470ef0d316e2" />
 
-```
-   ╱|、
- (˚ˎ 。7  
-  |、˜〵          
-  じしˍ,)ノ
-```
-
 A concatenative programming language built into a cat.  Pussy is Turing-complete as it can
 implement a two-counter Minsky machine (it has three counters).
 

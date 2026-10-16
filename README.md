@@ -10,14 +10,10 @@ but a line of prose that happens to be a cat.  Layout is purely semantic, whites
 and the parser only cares about the face glyphs and the counts of `～`, `🐾`, and `~`.  You can
 paste a program into a tweet and it will still run.
 
-```
- ／l、
-（ﾟ､ ｡ ﾟ７
- l、ﾞ ~ヽ
- じし_,)～～～～～～～～ノ ...🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾
-```
- 
-That cat is holding the numbers 8 and 13.
+&nbsp;／l、<br>
+（ﾟ､ ｡ ﾟ７<br>
+&nbsp;l、ﾞ ~ヽ<br>
+&nbsp;じし_,)～～～ノ ...🐾🐾
  
 ## How it works
  

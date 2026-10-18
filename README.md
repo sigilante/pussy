@@ -1,5 +1,7 @@
 # Pussy
 
+**Status ~2026.10.17:  Pussy can run the Minsky two-counter machine (and a bit more) and is considered a complete experiment in a Turing-complete cat language.**
+
 <img width="106" height="114" alt="image" src="https://github.com/user-attachments/assets/f3a88510-34d7-47f2-8a20-470ef0d316e2" />
 
 A tiny programming language built into a cat.  Pussy is Turing-complete as it can
